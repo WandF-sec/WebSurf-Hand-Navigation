@@ -15,7 +15,8 @@ Bu projeyi yerel bir geliştirme ortamında çalıştırmak için aşağıdaki a
    - Pynput
 
    Kütüphaneleri yüklemek için terminale aşağıdaki komutları sırasıyla girin:
-
+```
 pip install opencv-python
 pip install mediapipe
 pip install pynput
+```
